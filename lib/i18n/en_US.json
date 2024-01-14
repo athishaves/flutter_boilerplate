@@ -1,0 +1,10 @@
+{
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "signup": "SignUp",
+  "name-empty": "Display name should not be empty",
+  "email-empty": "Email should not be empty",
+  "password-empty": "Password should not be empty"
+}
