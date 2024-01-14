@@ -1,3 +1,3 @@
-# login_screen
+# Flutter Boiler plate
 
-A new Flutter project.
+Boiler plate flutter with reusable utils, extensions, firebase login, localization, routes and code structure
